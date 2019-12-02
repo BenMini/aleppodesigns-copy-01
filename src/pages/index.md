@@ -10,7 +10,7 @@ sections:
 
 
       Look no further we are here to help!
-    image: images/hero.png
+    image: /images/11.jpg
     section_id: hero
     title: This is Aleppo Designs
     type: section_hero
@@ -26,7 +26,7 @@ sections:
 
 
           Fun fact: Instagram is built with Django
-        image: images/feature1.png
+        image: /images/hero.png
         title: Django
       - actions:
           - label: Learn More
@@ -40,7 +40,7 @@ sections:
           - label: Learn More
             url: /features
         content: We've got you covered with more static gatsbyjs style interfaces!
-        image: images/feature3.png
+        image: /images/feature1.png
         title: Want something smaller and cheaper
     section_id: features
     subtitle: >-
