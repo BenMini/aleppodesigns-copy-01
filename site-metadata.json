@@ -3,7 +3,7 @@
   "palette": "orange",
   "header": {
     "title": "Aleppo Designs",
-    "logo_img": "images/logo.png",
+    "logo_img": "/images/avatar.png",
     "has_nav": true,
     "menu": {
       "actions": [
@@ -20,7 +20,7 @@
     "has_subscribe": true,
     "social_title": "Follow Me",
     "tagline": "Aleppo Designs LLC",
-    "logo_img": "images/logo_alt.png",
+    "logo_img": "/images/avatar.png",
     "has_social": true,
     "content": "&copy; Aleppo Designs LLC. All rights reserved.",
     "links": [],
