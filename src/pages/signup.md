@@ -1,5 +1,5 @@
 ---
-title: Let's Get Started
+title: Let's Get Started!
 subtitle: So you have an Idea...
 img_path: images/11.jpg
 menus:
