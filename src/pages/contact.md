@@ -1,17 +1,22 @@
 ---
 title: Contact
 sections:
-  - type: section_contact
+  - bg: gray
+    content: |-
+      Please feel free to reach out:
+
+      You can reach me via email at benrs6mini@gmail.com
+
+      or my cell at 413.464.2417
+
+      I'm located in Greenfield, MA
     section_id: contact
     title: Contact
-    content: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus
-      tortor pretium ligula.
-    bg: gray
+    type: section_contact
 menus:
   secondary:
     title: Contact
     weight: 3
 template: landing
 ---
+
