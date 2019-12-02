@@ -1,41 +1,61 @@
 ---
 title: Features
 sections:
-  - type: section_content
-    section_id: features
-    title: The Best Features of Your Services
-    content: >-
-      Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
-      cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
-      consectetur lobortis.
-
-
-      * Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-      * Ut eu nunc at diam fringilla fringilla eu ut massa.
-
-      * Phasellus ut enim non lorem venenatis rutrum.
-
-
-      Mollis eget congue quis, venenatis sit amet metus. Etiam sit amet tortor
-      sed justo tempor condimentum.
-    image: images/feature1.png
+  - actions: []
     bg: gray
-    actions:
-      - label: Free Trial
-        url: /signup
-      - label: View Demo
+    content: >-
+      Hi, 
+
+
+      I'm Ben i'm a novice web developer. I want to help you get up and running
+      with a website. 
+
+
+      Here are the services I offer:
+
+
+      * Helping with Domain Registration
+
+      * Setting up DNS servers
+
+      * Setting up Hosting
+
+      * Helping you develop content for your site
+
+      * SEO
+
+      * Full Stack Development
+
+
+      If this all sounds alien to you, no worries. I'll hold your hand through
+      the whole process. 
+
+
+      We'll start by you showing me what you want to see in a website, then
+      we'll build it out step by step.
+
+
+      Once up and running, i'll walk you through maintaining and updating
+      components.
+
+
+      I also offer a subscription service once your site is built out. Where if
+      anything goes wrong, I'll jump in and diagnose and fix the problem.
+    image: /images/12.jpg
+    section_id: features
+    title: We build websites
+    type: section_content
+  - actions:
+      - label: Reach Out
         url: '#'
-  - type: section_cta
     section_id: call-to-action
-    title: This Is Call to Action Block!
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: '#'
+    subtitle: 'Appointments are limited, reach out today!'
+    title: What are you waiting for?
+    type: section_cta
 menus:
   main:
     title: Features
     weight: 2
 template: landing
 ---
+
