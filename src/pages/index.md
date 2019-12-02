@@ -5,7 +5,10 @@ sections:
       - label: Learn More
         url: /features
     content: >-
-      Have you been looking for a competent web developer in the Pioneer Valley?
+      Have you been looking for a competent web developer in the Pioneer
+      Valley? 
+
+
       Look no further we are here to help!
     image: images/hero.png
     section_id: hero
